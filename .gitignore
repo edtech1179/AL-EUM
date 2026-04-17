@@ -1,0 +1,28 @@
+# Claude Code
+.claude/
+
+# Large zip (already extracted)
+*.zip
+
+# Extracted images (contain identifiable faces)
+enuma_extract/
+
+# Duplicate text extraction
+혜진/competition_guide_utf8.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
